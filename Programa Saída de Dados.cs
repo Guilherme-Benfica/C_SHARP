@@ -28,9 +28,10 @@ namespace Course
             Console.WriteLine("medida com 8 casas decimais: " + medida);
             Console.WriteLine("Arredondado (três casas decimais): " + medida.ToString("F3"));
             Console.WriteLine("Separador decimal invariant culture: " + medida.ToString("F3"));
-
-
         }
 
     }
 }
+
+
+
