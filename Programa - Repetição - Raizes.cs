@@ -23,13 +23,13 @@ namespace Programa
                 Console.WriteLine("Digite outro numero: ");
                 x = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); 
 
-
-
-
             }
 
             Console.WriteLine("Numero negativo!");
         }
     }
 } 
+  
+  
+  
   
